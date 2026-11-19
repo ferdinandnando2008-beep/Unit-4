@@ -1,0 +1,10 @@
+
+===== VEHICLE RENTAL MANAGEMENT SYSTEM =====
+1. Add Vehicle
+2. Display All Vehicles
+3. Search Vehicle
+4. Rent Vehicle
+5. Return Vehicle
+6. Display Available Vehicles
+7. Exit
+Enter your choice: 
